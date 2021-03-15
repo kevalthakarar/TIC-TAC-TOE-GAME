@@ -12,7 +12,7 @@ int main()
 	{
    		printf("\t\tWELCOME\t\t\n");
 		printf("\n\t      TIC TAC TOE \t\n");
-		printf("\n ENTER THE CHARCTER o OR x: (for player 1) ");
+		printf("\n ENTER THE CHARCTER O OR X: (for player 1) ");
 		scanf("%c",&cm);
 		if(cm=='o')
 			cm1='x';
