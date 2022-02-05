@@ -193,4 +193,7 @@ int main()
 	}while(c=='y');
 	printf("\"THANK YOU\"");
 }
+/*
 
+	pull request example
+*/
